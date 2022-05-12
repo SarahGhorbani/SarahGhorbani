@@ -8,7 +8,6 @@
 - 🔭 &ensp;I’m currently working on flutter ❤️ projects
 - 🙋‍♂️ &ensp;I’m looking to collaborate with other developers and designers
 - 🤝 &ensp;I’m looking forward for contribue to flutter projects 
-- 🎮 &ensp;In my free time, I like to play guitar, hang out with my friends and my car, and play PS4 
 - ✉️  &ensp;You can drop me an email at sara.qorbani73@gmail.com with subject containing "GitHub: ..."! It will be a pleasure to work with you!.
 - 📫 &ensp;How to reach me: [**Email**](mailto:sara.qorbani73@gmail.com)
 
