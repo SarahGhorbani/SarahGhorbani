@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1> Hey, there! 👋 I'm Sara Ghorbani</a>!</h1>
+<h3>Android and Flutter Developer </h3>
 
-<!--
-**SarahGhorbani/SarahGhorbani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Linkedin: SarahGhorbani](https://img.shields.io/badge/-CONNECT_WITH_ME-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/saraghorbani/)
+[![StackOverflow: SarahGhorbani](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9620273/sara-ghorbani)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &ensp;I’m currently working on flutter ❤️ projects
+- 🙋‍♂️ &ensp;I’m looking to collaborate with other developers and designers
+- 🤝 &ensp;I’m looking forward for contribue to flutter projects 
+- 🎮 &ensp;In my free time, I like to play guitar, hang out with my friends and my car, and play PS4 
+- ✉️  &ensp;You can drop me an email at sara.qorbani73@gmail.com with subject containing "GitHub: ..."! It will be a pleasure to work with you!.
+- 📫 &ensp;How to reach me: [**Email**](mailto:sara.qorbani73@gmail.com)
+
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahGhorbani&show_icons=true&theme=tokyonight)](https://github.com/SarahGhorbani/)&ensp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahGhorbani&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
