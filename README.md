@@ -12,9 +12,10 @@
 - 📫 &ensp;How to reach me: [**Email**](mailto:sara.qorbani73@gmail.com)
 
 <br/>
-
+<!-- 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahGhorbani&show_icons=true&theme=tokyonight)](https://github.com/SarahGhorbani/)&ensp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SarahGhorbani&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <img alt="github contribution snake animation" src="https://github.com/SarahGhorbani/blob/output/github-contribution-grid-snake.svg"> -->
+ -->
