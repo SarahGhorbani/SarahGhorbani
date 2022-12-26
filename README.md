@@ -2,7 +2,7 @@
 <h3>Android and Flutter Application Developer </h3>
 
 [![Linkedin: SarahGhorbani](https://img.shields.io/badge/-CONNECT_WITH_ME-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/saraghorbani/)
-[![StackOverflow: SarahGhorbani](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9620273/sara-ghorbani)
+<!-- [![StackOverflow: SarahGhorbani](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/9620273/sara-ghorbani) -->
 
 
 - 🔭 &ensp;I’m currently working on flutter ❤️ projects
